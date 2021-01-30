@@ -1046,6 +1046,7 @@ ul{
     .navbar.navbar.navbar-shrink .navbar-toggler,
     .navbar.navbar-shrink .navbar-nav{
         background-color: var(--main-color);
+        padding: 0px 15px;
     }
     .home-img .circle{
         height: 320px;

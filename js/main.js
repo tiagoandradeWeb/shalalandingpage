@@ -127,6 +127,7 @@ $(document).ready(function(){
         }else{
             localStorage.setItem("shala-theme", "light");
         }
+        updateIcon();
      });
      function updateIcon(){
          if($('body').hasClass("dark")){
